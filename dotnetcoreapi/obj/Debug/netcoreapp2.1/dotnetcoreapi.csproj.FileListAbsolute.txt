@@ -1,0 +1,14 @@
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapi\bin\Debug\netcoreapp2.1\dotnetcoreapi.deps.json
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapi\bin\Debug\netcoreapp2.1\dotnetcoreapi.runtimeconfig.json
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapi\bin\Debug\netcoreapp2.1\dotnetcoreapi.runtimeconfig.dev.json
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapi\bin\Debug\netcoreapp2.1\dotnetcoreapi.dll
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapi\bin\Debug\netcoreapp2.1\dotnetcoreapi.pdb
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapi\obj\Debug\netcoreapp2.1\dotnetcoreapi.csprojAssemblyReference.cache
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapi\obj\Debug\netcoreapp2.1\dotnetcoreapi.csproj.CoreCompileInputs.cache
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapi\obj\Debug\netcoreapp2.1\dotnetcoreapi.RazorAssemblyInfo.cache
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapi\obj\Debug\netcoreapp2.1\dotnetcoreapi.RazorAssemblyInfo.cs
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapi\obj\Debug\netcoreapp2.1\dotnetcoreapi.AssemblyInfoInputs.cache
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapi\obj\Debug\netcoreapp2.1\dotnetcoreapi.AssemblyInfo.cs
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapi\obj\Debug\netcoreapp2.1\dotnetcoreapi.RazorTargetAssemblyInfo.cache
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapi\obj\Debug\netcoreapp2.1\dotnetcoreapi.dll
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapi\obj\Debug\netcoreapp2.1\dotnetcoreapi.pdb
