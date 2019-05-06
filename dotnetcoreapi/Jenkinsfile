@@ -1,8 +1,8 @@
 ﻿node {
     stage('Checkout git repo') {
-      git branch: 'master', url: params.git_repo
+      git branch: 'master', url: https://github.com/james5101/dotnet
     }
     stage('build and publish') {
-        sh(script: "dotnet publish CustomersDemoClean-2017.sln -c Release ", returnStdout: true)
+        sh(script: "dotnet publish dotnetcoreapi.sln -c Release ", returnStdout: true)
     }
 }
