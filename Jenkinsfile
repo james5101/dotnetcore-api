@@ -20,7 +20,7 @@ node {
 
   stage('Publish Tests')
   {
-    xunit([MSTest(deleteOutputFiles: true, failIfNotNew: true, pattern: '*', skipNoTestFiles: false, stopProcessingIfError: true)])
+    xunit([MSTest(deleteOutputFiles: true, failIfNotNew: true, pattern: '\dotnetcore-api_master\.*', skipNoTestFiles: false, stopProcessingIfError: true)])
   }
   
 }
