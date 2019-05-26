@@ -1,0 +1,6 @@
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapi\obj\Release\netcoreapp2.1\dotnetcoreapi.csprojAssemblyReference.cache
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapi\obj\Release\netcoreapp2.1\dotnetcoreapi.csproj.CoreCompileInputs.cache
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapi\obj\Release\netcoreapp2.1\dotnetcoreapi.RazorAssemblyInfo.cache
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapi\obj\Release\netcoreapp2.1\dotnetcoreapi.RazorAssemblyInfo.cs
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapi\obj\Release\netcoreapp2.1\dotnetcoreapi.AssemblyInfoInputs.cache
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapi\obj\Release\netcoreapp2.1\dotnetcoreapi.AssemblyInfo.cs

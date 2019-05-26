@@ -9,10 +9,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Include="Jenkinsfile" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
