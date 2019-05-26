@@ -1,0 +1,14 @@
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapitests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapitests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapitests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapitests\bin\Debug\netcoreapp2.1\dotnetcoreapitests.deps.json
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapitests\bin\Debug\netcoreapp2.1\dotnetcoreapitests.runtimeconfig.json
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapitests\bin\Debug\netcoreapp2.1\dotnetcoreapitests.runtimeconfig.dev.json
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapitests\bin\Debug\netcoreapp2.1\dotnetcoreapitests.dll
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapitests\bin\Debug\netcoreapp2.1\dotnetcoreapitests.pdb
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapitests\obj\Debug\netcoreapp2.1\dotnetcoreapitests.csprojAssemblyReference.cache
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapitests\obj\Debug\netcoreapp2.1\dotnetcoreapitests.csproj.CoreCompileInputs.cache
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapitests\obj\Debug\netcoreapp2.1\dotnetcoreapitests.AssemblyInfoInputs.cache
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapitests\obj\Debug\netcoreapp2.1\dotnetcoreapitests.AssemblyInfo.cs
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapitests\obj\Debug\netcoreapp2.1\dotnetcoreapitests.dll
+C:\Users\jnoonan1\Documents\github\dotnetcore-api\dotnetcoreapitests\obj\Debug\netcoreapp2.1\dotnetcoreapitests.pdb

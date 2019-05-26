@@ -13,5 +13,9 @@ node {
     bat 'dotnet build --configuration Release'
    
   }
+
+  stage('Tests'){
+    bat 'dotnet test'
+  }
   
 }
