@@ -17,5 +17,10 @@ node {
   stage('Tests'){
     bat 'dotnet test'
   }
+
+  stage('Publish Tests')
+  {
+    xunit([MSTest(deleteOutputFiles: true, failIfNotNew: true, pattern: '*', skipNoTestFiles: false, stopProcessingIfError: true)])
+  }
   
 }
